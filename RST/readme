@@ -1,0 +1,5 @@
+This is the problem about rectilinear steiner tree
+which can be attained at https://en.wikipedia.org/wiki/Rectilinear_minimum_spanning_tree.
+The method is based on MST (https://en.wikipedia.org/wiki/Minimum_spanning_tree), which 
+uses the variant Prim algorithm.
+Actually this is an assignment.
